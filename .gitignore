@@ -20,7 +20,6 @@
 *.html
 *.jou
 *.ini
-olmc/olmc.runs/synth_1/__synthesis_is_complete__
 *.vds
 *.wdb
 *.prj
