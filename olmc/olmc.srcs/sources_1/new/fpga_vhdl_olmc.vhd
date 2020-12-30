@@ -4,8 +4,6 @@
 -- Project Name: OLMC
 -- Target Devices: Basys 3
 -- Tool Versions: Vivado 2020.2
--- Description: 
--- 
 ----------------------------------------------------------------------------------
 
 library IEEE;
