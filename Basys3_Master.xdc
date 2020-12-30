@@ -7,7 +7,6 @@ set_property IOSTANDARD LVCMOS33 [get_ports {S[1]}]
 set_property PACKAGE_PIN R2 [get_ports {I}]
 set_property IOSTANDARD LVCMOS33 [get_ports {I}]
 
-
 ## LEDs
 set_property IOSTANDARD LVCMOS33 [get_ports Y]
 set_property PACKAGE_PIN E19 [get_ports {Y}]
